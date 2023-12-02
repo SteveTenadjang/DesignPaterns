@@ -1,8 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-/*
- * In this patern the objects subcribe to an observable and perform tasks according to thier needs
- * an get notified when ever an event occures
+﻿/*
+ * Category: Behaviour
+ * 
+ * Objective: This paterns define a single to many relationship, 
+ *  the relation is established in sort a way that when the state of an object changes,
+ *  all its dependants are notified and updated automatically.
+ *  
  */
 using Observer.Implementations;
 using Observer.Interfaces;

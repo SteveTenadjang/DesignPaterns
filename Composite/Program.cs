@@ -1,9 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-/*
- * This partern is used t define a heirachy of object with properties in common
+﻿/*
+ * Category : Structure
  * 
+ * Objective :
+ *  - oragnise object in an arboresente structure to represent hierachy
+ *  - Gives the possibility to the client to manipulate a unique object and a compotie object seamlessly
  */
+
 using Composite;
 
 Folder root = new("Root");
