@@ -1,4 +1,14 @@
-﻿using Decorator.Decorators;
+﻿/*
+ * Category : Structure
+ * 
+ * Objective : This patern attahe dynamically additional responsibilities to 
+ *  to an object. it provides a simple alternative to inheritance to extend fonctionalities 
+ * 
+ * Result: Isolate the responsibilities of an object
+ */
+
+
+using Decorator.Decorators;
 using Decorator.Drinks;
 
 Drink expresso = new Espresso();
