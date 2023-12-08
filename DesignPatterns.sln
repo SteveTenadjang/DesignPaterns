@@ -11,7 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Observer", "Observer\Observ
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Composite", "Composite\Composite.csproj", "{2634FFCF-9936-4498-8533-548A4DE6DD73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.csproj", "{7AB77297-1FC5-4981-B3D4-D0EEEE1AD02D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adapter", "Adapter\Adapter.csproj", "{7AB77297-1FC5-4981-B3D4-D0EEEE1AD02D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemplateMethod", "TemplateMethod\TemplateMethod.csproj", "{4A6DD9AD-F4E5-49DF-A885-9C3A6F567DD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "Proxy\Proxy.csproj", "{E021570D-23AB-47C7-9A77-01340C444F1F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{7AB77297-1FC5-4981-B3D4-D0EEEE1AD02D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7AB77297-1FC5-4981-B3D4-D0EEEE1AD02D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7AB77297-1FC5-4981-B3D4-D0EEEE1AD02D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A6DD9AD-F4E5-49DF-A885-9C3A6F567DD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A6DD9AD-F4E5-49DF-A885-9C3A6F567DD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A6DD9AD-F4E5-49DF-A885-9C3A6F567DD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A6DD9AD-F4E5-49DF-A885-9C3A6F567DD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E021570D-23AB-47C7-9A77-01340C444F1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E021570D-23AB-47C7-9A77-01340C444F1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E021570D-23AB-47C7-9A77-01340C444F1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E021570D-23AB-47C7-9A77-01340C444F1F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

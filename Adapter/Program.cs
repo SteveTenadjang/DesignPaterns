@@ -5,7 +5,7 @@
  *  - Convert an interface used by client in to another interface.
  *  - Permit classes with incompatible interfaces to work together.
  *  
- *  Result: permit the adaptation of a ystem with a sub-system
+ *  Result: permit the adaptation of a system with a sub-system
  *  
  *  - there are 02 possible implementation, one with inheritance and another with composition
  */

@@ -1,7 +1,7 @@
 ﻿/*
  * Category : Structure
  * 
- * Objective : This patern attahe dynamically additional responsibilities to 
+ * Objective : This pattern attahe dynamically additional responsibilities to 
  *  to an object. it provides a simple alternative to inheritance to extend fonctionalities 
  * 
  * Result: Isolate the responsibilities of an object

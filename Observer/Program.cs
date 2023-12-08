@@ -1,7 +1,7 @@
 ﻿/*
  * Category: Behaviour
  * 
- * Objective: This paterns define a single to many relationship, 
+ * Objective: This patterns define a single to many relationship, 
  *  the relation is established in sort a way that when the state of an object changes,
  *  all its dependants are notified and updated automatically.
  *  
